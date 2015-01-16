@@ -28,6 +28,7 @@ Your first task is to checkout the commit whose commit message is the answer to 
 > When a programmer is born, what is the first thing he/she learns to say?
 
 
-MIRAJ DESAI ADDED THIS CODE
-
 more text is added
+
+THE TEXT HAS BEEN DELETED
+
